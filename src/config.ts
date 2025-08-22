@@ -1,91 +1,57 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Ethan Wappes",
+  title: "Factory Controls Engineer",
+  description: "Portfolio website of Ethan Wappes",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "etwappes@gmail.com",
+    linkedin: "https://linkedin.com/in/ethanwappes",
+    github: "https://github.com/EWappes11",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Currently, I am gaining valuable experience in manufacturing as an Operations KDP at Kautex Textron. My goal is to transition into automation, controls, and robotics engineering, where I can leverage my skill in PLC's, embedded programing, and passion for technology. My background includes significant experience in the Automotive and Power Sports industries. As a Manufacturing Engineering Intern at Kautex Textron, I worked on helium leak testing and developed digital work instructions. More recently, I served as an Electrical Engineering Intern with Arctic Cat and Textron Specialized Vehicles, focusing on researching and testing new battery technologies. In addition to my technical experience, I have demonstrated leadership as the Vice President of the Indiana Theta chapter of Phi Delta Theta Fraternity, where I was honored with the Neil A. Armstrong First Man Award. I am also a graduate of the Shaffer Honors College of Leadership. Outside of work, I am passionate about automation, vintage trucks, woodworking, and spending time outdoors. I am always eager to connect with professionals in my field and expand my network.",
+  skills: ["Put Some Skills Here"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Idk ill figure out something later",
       description:
         "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
       link: "https://aidevroundup.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
-    {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Allison Transmission",
+      title: "Factory Controls Engineer",
+      dateRange: "June 2025 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "online shop",
+        "play on phone",
+        "sit around",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Kautex Textron",
+      title: "Kautex Development Program - Operations Engineering Pathway",
+      dateRange: "August 2024 - June 2025",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Rotation 1",
+        "Created a database to track Top Plant Issues from 2023 to 2024.",
+        "Wrote a Python script to compare Internal Inventory tracker and SAP to find items lost in process.",
+        " Calculated line cycle times and prototyped a robotic pack out system to repurpose team members.",
+        "Roation 2",
+        "Implemented a solution for loose bolts by calling out torque specifications and educating line technicians"
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Purdue University",
+      degree: "Bachelor of Science in Mechatronics and Robotics Engineering Technology with a minor in Electrial Engineering Technology",
+      dateRange: "2020 - 2024",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "What did you even achive",
       ],
     },
   ],
