@@ -6,7 +6,6 @@
     "strict": true,
     "jsx": "preserve",
     "allowJs": true,
-    "checkJs": false,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
