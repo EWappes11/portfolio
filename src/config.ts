@@ -26,9 +26,7 @@ export const siteConfig = {
       title: "Factory Controls Engineer",
       dateRange: "June 2025 - Present",
       bullets: [
-        "online shop",
-        "play on phone",
-        "sit around",
+        "",
       ],
     },
     {
@@ -44,14 +42,35 @@ export const siteConfig = {
         "Implemented a solution for loose bolts by calling out torque specifications and educating line technicians"
       ],
     },
+    {
+      company: "Textron Specialized Vehicles",
+      title: "Electrial Engineering Intern",
+      dateRange: "May 2023 - August 2023",
+      bullets: [
+        "Conducted research and testing for new battery technologies focusing on reliability and feasibility on 2 stroke snowmobiles",
+        "Determined power delivered by current stator during electric start and minimum power required for various engines",
+        "Redesigned and created test box for data acquisition for 2 stroke engine calibration department using a PLC",
+      ],
+    },
+    {
+      company: "Kautex Textron",
+      title: "Electrial Engineering Intern",
+      dateRange: "May 2022 - August 2022",
+      bullets: [
+        "Worked directly with Focus Factory Managers and Engineers to reduce downtime on 9 production lines",
+        "Established a system for technicians to easily locate components of 9 Helium Leak Testing machines",
+        "Produced 20 digital work instructions using Holo One to help technicians and team leads with troubleshooting",
+      ],
+    },
   ],
   education: [
     {
       school: "Purdue University",
-      degree: "Bachelor of Science in Mechatronics and Robotics Engineering Technology with a minor in Electrial Engineering Technology",
+      degree: "Bachelor of Science",
       dateRange: "2020 - 2024",
-      achievements: [
-        "What did you even achive",
+      Bullets: [
+        "Major in Mechatronics and Robotics Engineering Technology",
+        "Minor in Electrial Engineering Technology"
       ],
     },
   ],
